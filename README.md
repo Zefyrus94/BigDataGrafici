@@ -8,4 +8,4 @@ Considerazioni aggiuntive sul codice caricato e sul progetto:
 Nei casi in cui l'output non veniva catturato adeguatamente nei log stdout (hive/spark)
 si sono usati come riferimenti i tempi relativi a "elapsed time" per i vari step dall'interfaccia grafica
 Avrei voluto introdurre delle ottimizzazioni al codice (come in hive provare ad usare un bucket map side join o il partizionamento
-sull'anno, specialmente per la terza query con i soli 3 anni), ma è stato un progetto lungo da svolgere da solo.
+sull'anno, specialmente per la terza query con i soli 3 anni), ma è stato un progetto lungo.
